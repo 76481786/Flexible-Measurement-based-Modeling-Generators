@@ -7,6 +7,22 @@ In order to facilitate the interested reader to better apply our measurement fin
 
 Note: The GDP and geographic data used in this project are obtained from Wikipedia.
 
+### Overall
+
+![image-20230512160708814](C:\Users\shen\AppData\Roaming\Typora\typora-user-images\image-20230512160708814.png)
+
+As shown above, this research provides a holistic measurement analysis of a crowdsourced edge platform, focusing on three dimensions (servers, services, and requests) to answer the following questions:
+
++ What are the quality and quantity characteristics of the hardware resources provided by C-ESP’s **edge servers**?
++ What are the stability and utilization characteristics of the **containerized services** hosted on C-ESP?
++ What are the spatial and temporal distribution characteristics of **user requests** handled by C-ESP?
+
+Among them, the data generation for edge servers is the most complicated and is divided into 5 steps as shown in the figure below.
+
+![image-20230512160859713](C:\Users\shen\AppData\Roaming\Typora\typora-user-images\image-20230512160859713.png)
+
+ 
+
 ### Prerequisites
 
 The code runs on Python 3. To install the dependencies, please execute:
@@ -14,6 +30,8 @@ The code runs on Python 3. To install the dependencies, please execute:
 ```
 pip3 install -r requirements.txt
 ```
+
+
 
 ### Project
 
