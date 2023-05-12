@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 * Input data: You can use the population/GDP and geographic data of the target area as input. At the same time, we also provide the data sample in ./input_data.
 * Parameter setting: Set up in main.py according to your own needs.
 * Run:  ` python3 main.py`
-* Result: Read and analyze the file in "\out".
+* Result: Read and analyze the file in ./output_data.
 
 ### Main Process
 
