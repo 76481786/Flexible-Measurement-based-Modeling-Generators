@@ -9,7 +9,7 @@ Note: The GDP and geographic data used in this project are obtained from Wikiped
 
 ### Overall
 
-![image-20230512160708814](C:\Users\shen\AppData\Roaming\Typora\typora-user-images\image-20230512160708814.png)
+![](./fig/overall.png)
 
 As shown above, this research provides a holistic measurement analysis of a crowdsourced edge platform, focusing on three dimensions (servers, services, and requests) to answer the following questions:
 
@@ -19,7 +19,7 @@ As shown above, this research provides a holistic measurement analysis of a crow
 
 Among them, the data generation for edge servers is the most complicated and is divided into 5 steps as shown in the figure below.
 
-![image-20230512160859713](C:\Users\shen\AppData\Roaming\Typora\typora-user-images\image-20230512160859713.png)
+![image-20230512160859713](./fig/workflow.png)
 
  
 
